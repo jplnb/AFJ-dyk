@@ -9,8 +9,7 @@ MIT license.
 Embed HTML snippet
 -----------------
 
-    <iframe src="https://jplnb.github.io/AFJ-dyk/" width="600" height="400" 
-    title="Did you know?"></iframe>
+    <iframe src="https://jplnb.github.io/AFJ-dyk/" width="600" height="400" title="Did you know?"></iframe>
 
 [AFJ-qotw]: https://github.com/jplnb/AFJ-qotw/
 [jq]: https://jquery.com/
