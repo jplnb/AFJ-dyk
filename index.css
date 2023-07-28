@@ -1,0 +1,13 @@
+#title {
+    /* "Did you know?" title */
+    font-family: "Segoe UI", sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    /* fact / failure message */
+    font-family: "Segoe UI", sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
